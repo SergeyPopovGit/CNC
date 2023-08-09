@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "33mm Endmill",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "Chipload": "0,010 mm",
+    "CuttingEdgeHeight": "2,000 mm",
+    "Diameter": "33,000 mm",
+    "Flutes": "2",
+    "Length": "40,000 mm",
+    "Material": "HSS",
+    "ShankDiameter": "8,000 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

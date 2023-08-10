@@ -1,6 +1,6 @@
 (Exported by FreeCAD)
 (Post Processor: grbl_post)
-(Output Time:2023-08-10 14:49:03.858064)
+(Output Time:2023-08-10 14:58:13.360693)
 (Begin preamble)
 G17 G90
 G21
@@ -42,6 +42,23 @@ G2 X5.802 Y5.302 Z-4.000 I1.750 J-7.291 K0.000
 G0 Z5.000
 G0 Z5.000
 (Finish operation: Profile005)
+(Block-name: G54)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: G54)
+(Path: G54)
+G54
+G0 Z5.000
+(Finish operation: G54)
+(Block-name: 3mm Endmill001)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: 3mm Endmill001)
+(Path: 3mm Endmill001)
+(3mm Endmill001)
+(Begin toolchange)
+( M6 T2 )
+(Finish operation: 3mm Endmill001)
 (Block-name: Profile006)
 (Block-expand: 0)
 (Block-enable: 1)
@@ -63,6 +80,20 @@ G2 X5.781 Y5.281 Z-4.000 I1.742 J-7.262 K0.000
 G0 Z5.000
 G0 Z5.000
 (Finish operation: Profile006)
+(Block-name: G54)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: G54)
+(Path: G54)
+G54
+G0 Z5.000
+(Finish operation: G54)
+(Block-name: Profile001)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: Profile001)
+(Path: Profile001)
+(Finish operation: Profile001)
 (Block-name: post_amble)
 (Block-expand: 0)
 (Block-enable: 1)

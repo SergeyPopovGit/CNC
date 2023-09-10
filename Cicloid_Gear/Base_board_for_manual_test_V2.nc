@@ -1,6 +1,6 @@
 (Exported by FreeCAD)
 (Post Processor: grbl_post)
-(Output Time:2023-09-10 19:28:08.786518)
+(Output Time:2023-09-10 19:42:03.031290)
 (Begin preamble)
 G17 G90
 G21
@@ -47,6 +47,23 @@ G80
 G0 Z3.000
 G0 Z5.000
 (Finish operation: Drilling)
+(Block-name: G54)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: G54)
+(Path: G54)
+G54
+G0 Z5.000
+(Finish operation: G54)
+(Block-name: 3mm Endmill001)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: 3mm Endmill001)
+(Path: 3mm Endmill001)
+(3mm Endmill001)
+(Begin toolchange)
+( M6 T2 )
+(Finish operation: 3mm Endmill001)
 (Block-name: Adaptive)
 (Block-expand: 0)
 (Block-enable: 1)
@@ -10776,6 +10793,23 @@ G1 X53.438 Y-29.175 F300.000
 G0 Z5.000
 G0 Z5.000
 (Finish operation: Adaptive)
+(Block-name: G54)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: G54)
+(Path: G54)
+G54
+G0 Z5.000
+(Finish operation: G54)
+(Block-name: 3mm Endmill001)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: 3mm Endmill001)
+(Path: 3mm Endmill001)
+(3mm Endmill001)
+(Begin toolchange)
+( M6 T2 )
+(Finish operation: 3mm Endmill001)
 (Block-name: Adaptive001)
 (Block-expand: 0)
 (Block-enable: 1)
@@ -33797,6 +33831,23 @@ G1 X-12.068 Y7.184 F300.000
 G0 Z5.000
 G0 Z5.000
 (Finish operation: Adaptive001)
+(Block-name: G54)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: G54)
+(Path: G54)
+G54
+G0 Z5.000
+(Finish operation: G54)
+(Block-name: 3mm Endmill001)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: 3mm Endmill001)
+(Path: 3mm Endmill001)
+(3mm Endmill001)
+(Begin toolchange)
+( M6 T2 )
+(Finish operation: 3mm Endmill001)
 (Block-name: Profile002)
 (Block-expand: 0)
 (Block-enable: 1)
@@ -33825,6 +33876,23 @@ G2 X9.899 Y9.899 Z-9.000 I13.817 J2.248 K0.000 F300.000
 G0 Z5.000
 G0 Z5.000
 (Finish operation: Profile002)
+(Block-name: G54)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: G54)
+(Path: G54)
+G54
+G0 Z5.000
+(Finish operation: G54)
+(Block-name: 3mm Endmill001)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: 3mm Endmill001)
+(Path: 3mm Endmill001)
+(3mm Endmill001)
+(Begin toolchange)
+( M6 T2 )
+(Finish operation: 3mm Endmill001)
 (Block-name: Adaptive002)
 (Block-expand: 0)
 (Block-enable: 1)
@@ -35723,6 +35791,23 @@ G1 X-0.132 Y-2.500 F300.000
 G0 Z5.000
 G0 Z5.000
 (Finish operation: Adaptive002)
+(Block-name: G54)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: G54)
+(Path: G54)
+G54
+G0 Z5.000
+(Finish operation: G54)
+(Block-name: 3mm Endmill001)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: 3mm Endmill001)
+(Path: 3mm Endmill001)
+(3mm Endmill001)
+(Begin toolchange)
+( M6 T2 )
+(Finish operation: 3mm Endmill001)
 (Block-name: Profile)
 (Block-expand: 0)
 (Block-enable: 1)
@@ -35781,6 +35866,23 @@ G2 X0.132 Y45.005 Z-10.000 I-0.639 J3.438 K0.000 F300.000
 G0 Z5.000
 G0 Z5.000
 (Finish operation: Profile)
+(Block-name: G54)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: G54)
+(Path: G54)
+G54
+G0 Z5.000
+(Finish operation: G54)
+(Block-name: 3mm Endmill001)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: 3mm Endmill001)
+(Path: 3mm Endmill001)
+(3mm Endmill001)
+(Begin toolchange)
+( M6 T2 )
+(Finish operation: 3mm Endmill001)
 (Block-name: Profile_OutCut)
 (Block-expand: 0)
 (Block-enable: 1)

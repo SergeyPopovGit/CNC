@@ -35,6 +35,14 @@
     {
       "nr": 9,
       "path": "5mm-thread-cutter.fctb"
+    },
+    {
+      "nr": 10,
+      "path": "3mm_Endmill.fctb"
+    },
+    {
+      "nr": 11,
+      "path": "33mm_Endmill.fctb"
     }
   ],
   "version": 1

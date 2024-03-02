@@ -1,6 +1,6 @@
 (Exported by FreeCAD)
 (Post Processor: grbl_post)
-(Output Time:2024-02-29 22:10:17.397113)
+(Output Time:2024-03-02 12:12:07.912356)
 (Begin preamble)
 G17 G90
 G21
@@ -4368,6 +4368,23 @@ G1 X15.814 Y2.429 F400.000
 G0 Z5.000
 G0 Z5.000
 (Finish operation: Adaptive_big hole001)
+(Block-name: Profile001)
+(Block-expand: 0)
+(Block-enable: 1)
+(Begin operation: Profile001)
+(Path: Profile001)
+(Profile001)
+(Compensated Tool Path. Diameter: 3.0)
+G0 Z5.000
+G0 X12.041 Y12.041
+G0 Z3.000
+G1 X12.041 Y12.041 Z-4.000 F400.000
+G2 X2.223 Y-16.884 Z-4.000 I-12.041 J-12.041 K0.000 F400.000
+G2 X-2.223 Y16.884 Z-4.000 I-2.223 J16.884 K0.000 F400.000
+G2 X12.041 Y12.041 Z-4.000 I2.223 J-16.884 K0.000 F400.000
+G0 Z5.000
+G0 Z5.000
+(Finish operation: Profile001)
 (Block-name: Adaptive004)
 (Block-expand: 0)
 (Block-enable: 1)

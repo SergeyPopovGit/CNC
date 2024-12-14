@@ -1,6 +1,6 @@
 (Exported by FreeCAD)
 (Post Processor: script_module)
-(Output Time:2024-12-10 08:47:33.167669)
+(Output Time:2024-12-11 21:20:50.814608)
 (Begin preamble)
 G17 G90
 G21
@@ -26,7 +26,7 @@ M3 S10000
 (Block-enable: 1)
 (Begin operation: CutHole)
 (Path: CutHole)
-(Adaptive)
+(CutHole)
 (Helix to depth: -3.000000)
 G0 Z6.000
 G0 X-21.165 Y34.752 Z6.000
